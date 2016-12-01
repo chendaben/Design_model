@@ -1,4 +1,4 @@
-package bean;
+package strategy_model.bean;
 
 /**
  * Created by computer on 2016/12/1.
